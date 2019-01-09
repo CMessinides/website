@@ -2,7 +2,7 @@
 
 _Supported extensions: `coffee`_
 
-(CoffeeScript)[https://coffeescript.org/] is language that compiles to JavaScript, with syntax and features inspired by Ruby and Python. You can import CoffeeScript modules with no additional configuration. Parcel will install the [`coffeescript` package](https://www.npmjs.com/package/coffeescript) if necessary and use it to transform your CoffeeScript into JavaScript.
+[CoffeeScript](https://coffeescript.org/) is language that compiles to JavaScript, with syntax and features inspired by Ruby and Python. You can import CoffeeScript modules with no additional configuration. Parcel will install the [`coffeescript` package](https://www.npmjs.com/package/coffeescript) if necessary and use it to transform your CoffeeScript into JavaScript.
 
 ```html
 <!-- index.html -->
